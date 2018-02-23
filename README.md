@@ -1,6 +1,6 @@
 # lux
 
-Lux - cryptocurrency wallet
+Luxcoin - cryptocurrency wallet
 
 ## Automated build
 
@@ -121,7 +121,7 @@ and then this:
 $ npm run test-watch
 ```
 
-You can find more details regarding tests setup within [Running Lux acceptance tests](https://github.com/kaceybolman/luxcoin/blob/master/features/README.md) README file.
+<!-- You can find more details regarding tests setup within [Running Lux acceptance tests](https://github.com/kaceybolman/luxcoin/blob/master/features/README.md) README file. -->
 
 ### CSS Modules
 
