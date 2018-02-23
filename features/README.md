@@ -1,8 +1,8 @@
-# Running Deadalus acceptance tests
+# Running Lux acceptance tests
 
 
 1. Make sure you have correct node/npm versions installed on your machine (node v6.x and npm v3.x)
-2. Clone Deadalus repo to your machine (git@github.com:kaceybolman/lux.git - use **master** branch)
+2. Clone Lux repo to your machine (git@github.com:kaceybolman/lux.git - use **master** branch)
 3. Install npm dependencies from within Lux directory:
 ```
 $ cd lux/
@@ -18,7 +18,7 @@ $ npm link lux-client-api
 $ cd cardano-sl/
 $ ./scripts/launch/staging.sh
 ```
-6. Run Deadalus frontend in hot-server mode:
+6. Run Lux frontend in hot-server mode:
 ```
 $ cd lux/
 $ npm run hot-server

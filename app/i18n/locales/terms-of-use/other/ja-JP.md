@@ -56,7 +56,7 @@ User agrees to indemnify, hold harmless and defend Company, its shareholders, di
 
 10. ## 10. Intellectual Property
 
-The Company retains all right, title, and interest in and to all of the Company&#39;s brands, logos, and trademarks, including, but not limited to, Input Output HK Limited, IOHK, Lux, Lux Cryptocurrency Wallet, Lux Wallet, Lux App, and variations of the wording of the aforementioned brands, logos, and trademarks.
+The Company retains all right, title, and interest in and to all of the Company&#39;s brands, logos, and trademarks, including, but not limited to, Input Output HK Limited, LUXCT, Lux, Lux Cryptocurrency Wallet, Lux Wallet, Lux App, and variations of the wording of the aforementioned brands, logos, and trademarks.
 
 11. ## 11. ADA Redemption
 
@@ -70,7 +70,7 @@ c) User may redeem User&#39;s ADA by (i) entering the shielded vending key from 
 
 12. ## 12. Warnings
 
-User acknowledges that IOHK shall not be responsible for transferring, safeguarding, or maintaining private keys and/or User&#39;s ADA or any other cryptocurrency. If User and/or any co-signing authorities lose, mishandle, or have stolen associated private keys, or if User&#39;s cosigners refuse to provide requisite authority, User acknowledges that User may not be able to recover User&#39;s ADA or any other cryptocurrency, and that the Company shall not be responsible for such loss.
+User acknowledges that LUXCT shall not be responsible for transferring, safeguarding, or maintaining private keys and/or User&#39;s ADA or any other cryptocurrency. If User and/or any co-signing authorities lose, mishandle, or have stolen associated private keys, or if User&#39;s cosigners refuse to provide requisite authority, User acknowledges that User may not be able to recover User&#39;s ADA or any other cryptocurrency, and that the Company shall not be responsible for such loss.
 
 User acknowledges and agrees that ADA or any other cryptocurrency transactions facilitated by Lux and/or the Company may be delayed, and that the Company shall not be responsible for any associated loss.
 

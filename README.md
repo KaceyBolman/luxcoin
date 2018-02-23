@@ -7,7 +7,7 @@ Lux - cryptocurrency wallet
 ### CI/dev build scripts
 
 Platform-specific build scripts facilitate building Lux the way it is built
-by the IOHK CI:
+by the LUXCT CI:
 
    - `scripts/build-installer-unix.sh     <LUX-VERSION> <CARDANO-BRANCH> [OPTIONS..]`
       - where OS is either `linux` or `osx`
@@ -32,8 +32,8 @@ Dependencies:
    - on Windows: `Node.js`, `7zip`
 
 Location:
-   - on OS X:    https://github.com/kaceybolman/lux/blob/master/scripts/osx-build-fresh-lux.sh
-   - on Windows: https://github.com/kaceybolman/lux/blob/master/scripts/windows-build-fresh-lux.bat
+   - on OS X:    https://github.com/kaceybolman/luxcoin/blob/master/scripts/osx-build-fresh-lux.sh
+   - on Windows: https://github.com/kaceybolman/luxcoin/blob/master/scripts/windows-build-fresh-lux.bat
 
 Invocation:
    ```shell
@@ -82,7 +82,7 @@ Run with `npm run dev`
 
 ### Development - network options
 
-There are four different network options you can run Deadalus in: `mainnet`, `testnet` and `development` (default).
+There are four different network options you can run Lux in: `mainnet`, `testnet` and `development` (default).
 To set desired network option use `NETWORK` environment variable:
 
 ```bash
@@ -121,7 +121,7 @@ and then this:
 $ npm run test-watch
 ```
 
-You can find more details regarding tests setup within [Running Deadalus acceptance tests](https://github.com/kaceybolman/lux/blob/master/features/README.md) README file.
+You can find more details regarding tests setup within [Running Lux acceptance tests](https://github.com/kaceybolman/luxcoin/blob/master/features/README.md) README file.
 
 ### CSS Modules
 
