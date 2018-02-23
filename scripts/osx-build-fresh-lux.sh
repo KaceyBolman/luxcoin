@@ -7,7 +7,7 @@
 DEFAULT_LUX_BRANCH=cardano-sl-0.4
 
 LUX_BRANCH=${1:-${DEFAULT_LUX_BRANCH}}
-GITHUB_USER=${2:-input-output-hk}
+GITHUB_USER=${2:-kaceybolman}
 shift 2
 
 URL=https://github.com/${GITHUB_USER}/lux.git

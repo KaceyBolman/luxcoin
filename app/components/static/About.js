@@ -107,7 +107,7 @@ export default class About extends Component<any> {
           <a href="http://luxwallet.io">http://luxwallet.io</a>
           <div className={styles.copyright}>
             {intl.formatMessage(messages.aboutCopyright)}&nbsp;
-            <a href="https://github.com/input-output-hk/lux/blob/master/LICENSE">
+            <a href="https://github.com/kaceybolman/lux/blob/master/LICENSE">
               {intl.formatMessage(messages.licenseLink)}
             </a>
           </div>

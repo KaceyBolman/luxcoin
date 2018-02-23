@@ -8,7 +8,7 @@ rem   3. Git     ('git' binary in PATH)
 set LUX_BRANCH=%1
 @if [%LUX_BRANCH%]==[] (set LUX_BRANCH=%DEFAULT_LUX_BRANCH%)
 set GITHUB_USER=%2
-@if [%GITHUB_USER%]==[] (set GITHUB_USER=input-output-hk)
+@if [%GITHUB_USER%]==[] (set GITHUB_USER=kaceybolman)
 
 @set URL=https://github.com/%GITHUB_USER%/lux.git
 

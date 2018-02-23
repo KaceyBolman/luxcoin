@@ -32,15 +32,15 @@ Dependencies:
    - on Windows: `Node.js`, `7zip`
 
 Location:
-   - on OS X:    https://github.com/input-output-hk/lux/blob/master/scripts/osx-build-fresh-lux.sh
-   - on Windows: https://github.com/input-output-hk/lux/blob/master/scripts/windows-build-fresh-lux.bat
+   - on OS X:    https://github.com/kaceybolman/lux/blob/master/scripts/osx-build-fresh-lux.sh
+   - on Windows: https://github.com/kaceybolman/lux/blob/master/scripts/windows-build-fresh-lux.bat
 
 Invocation:
    ```shell
    {osx,windows}-build-fresh-lux.{sh,bat} [BRANCH] [GITHUB-USER] [OPTIONS...]
    ```
    ..where `BRANCH` defaults to the current release branch, and `GITHUB-USER`
-   defaults to `input-output-hk`.
+   defaults to `kaceybolman`.
 
    The remaining `OPTIONS` are passed as-is to the respective build scripts.
 
@@ -72,7 +72,7 @@ defaults to 6.x*
 
 ### Development - with Cardano Wallet (lux-bridge)
 
-Build and run lux-bridge [using instructions in the repo](https://github.com/input-output-hk/pos-haskell-prototype/tree/master/lux)
+Build and run lux-bridge [using instructions in the repo](https://github.com/kaceybolman/pos-haskell-prototype/tree/master/lux)
 
 Symlink the npm package in the subfolder `pos-haskell-prototype/lux`:
 * `npm link` (inside the lux sub folder of the Cardano client)
@@ -121,7 +121,7 @@ and then this:
 $ npm run test-watch
 ```
 
-You can find more details regarding tests setup within [Running Deadalus acceptance tests](https://github.com/input-output-hk/lux/blob/master/features/README.md) README file.
+You can find more details regarding tests setup within [Running Deadalus acceptance tests](https://github.com/kaceybolman/lux/blob/master/features/README.md) README file.
 
 ### CSS Modules
 

@@ -2,7 +2,7 @@
 
 
 1. Make sure you have correct node/npm versions installed on your machine (node v6.x and npm v3.x)
-2. Clone Deadalus repo to your machine (git@github.com:input-output-hk/lux.git - use **master** branch)
+2. Clone Deadalus repo to your machine (git@github.com:kaceybolman/lux.git - use **master** branch)
 3. Install npm dependencies from within Lux directory:
 ```
 $ cd lux/
